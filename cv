@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+ <head>
+    <tittle>mon CV</tittle>
+ </head>
+ <body>
+    <header><h1>prénom/nom:</h1>camille frerot. <h1>poste recherché:</h1> chef supreme de l'univers.</header>
+    <main>
+        <h2>formation</h2>
+        <ul>
+            <li>bac S.</li>
+            <li>licence science de la vie de la terre et de l'environnement (première année).</li>
+            <li>formation codecademy en html.</li>
+        </ul>
+        <h2>experience</h2>
+        <ul>
+            <li>stage de troisieme dans une entreprise de renovation</li>
+        </ul>
+    </main>
+    <footer>
+    <h4>adresse:</h4> 3a rue des paquerettes ordonée, dijon , 21000. <h4>telephone:</h4> 0606060606 <h4>adresse mail:</h4> cams21220@hotmail.fr
+    </footer>
+ </body>
+</html>
